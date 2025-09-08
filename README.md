@@ -29,4 +29,3 @@ Infrastructure is reproducibly deployed with a **single command**, ensuring cons
 
 ---
 
-Feel free to customize this further with badges, links to your modules, or screenshots if needed!
