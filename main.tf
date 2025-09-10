@@ -67,5 +67,5 @@ resource "aws_instance" "POC_instance" {
 
 # Create an S3 bucket
 resource "aws_s3_bucket" "POC_bucket" {
-  bucket = "devendhar-POC-bucket"
+  bucket = "devendhar-poc-bucket-641"
 }
