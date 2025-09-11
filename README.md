@@ -143,7 +143,7 @@ Launches an Ubuntu 22.04 EC2 instance (free-tier eligible). Accessible via SSH.
 ## Step 9: S3 Bucket
 ```hcl
 resource "aws_s3_bucket" "POC_bucket" {
-  bucket = "ucket-641"
+  bucket = "devendhar-poc-bucket-641"
 }
 ```
 Creates an S3 bucket for storage (files, logs, backups, etc.).
