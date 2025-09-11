@@ -14,22 +14,6 @@ Provision a **VPC**, **EC2 instance**, and **S3 bucket** using Terraform.
 - S3  
 - IAM  
 
-###  Implementation Steps
-1. Install Terraform and initialize the AWS provider.
-2. Write modules for EC2, VPC, and S3.
-3. Use variables and outputs for modularity and reusability.
-4. Apply the configuration and verify resources in the AWS Console.
-5. Automate the deployment using AWS CodeBuild.
-
-###  Hints
-- Use **S3** and **DynamoDB** backend for Terraform state management.
-
-###  Expected Outcome
-Infrastructure is reproducibly deployed with a **single command**, ensuring consistency and automation.
-
----
-Here's the README file content for your **Terraform POC on AWS**, formatted for clarity and documentation purposes:
-
 ---
 
 # Terraform POC on AWS 
